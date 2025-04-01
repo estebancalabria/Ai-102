@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vdAyxjCjf/innZlrW4A0uOxsiz3BPr1R/f5BYVOlk970BWloY4eYqDmUPtTaT43bzlaD5mqlp7ATWv49w8FX7g==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos\\AI-102\\Code\\SpeechToText\\SpeechToText\\SpeechToText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.29.0\\microsoft.cognitiveservices.speech.1.29.0.nupkg.sha512"
+  ],
+  "logs": []
+}

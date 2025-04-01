@@ -1,0 +1,7 @@
+C:\Cursos\AI-102\Code\KeyVaultDemo\KeyVaultDemo\bin\Debug\net6.0\publish\KeyVaultDemo.exe
+C:\Cursos\AI-102\Code\KeyVaultDemo\KeyVaultDemo\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Cursos\AI-102\Code\KeyVaultDemo\KeyVaultDemo\bin\Debug\net6.0\publish\appsettings.json
+C:\Cursos\AI-102\Code\KeyVaultDemo\KeyVaultDemo\bin\Debug\net6.0\publish\KeyVaultDemo.dll
+C:\Cursos\AI-102\Code\KeyVaultDemo\KeyVaultDemo\bin\Debug\net6.0\publish\KeyVaultDemo.deps.json
+C:\Cursos\AI-102\Code\KeyVaultDemo\KeyVaultDemo\bin\Debug\net6.0\publish\KeyVaultDemo.runtimeconfig.json
+C:\Cursos\AI-102\Code\KeyVaultDemo\KeyVaultDemo\bin\Debug\net6.0\publish\KeyVaultDemo.pdb

@@ -15,7 +15,7 @@ Portales de Azure
 
 📌 Portal de Azure : https://portal.azure.com/  
 📌 Portal de Computer Vision : https://portal.vision.cognitive.azure.com/  
-📌 Portal de Computer Language :https://language.cognitive.azure.com/  
+📌 Portal de Language :https://language.cognitive.azure.com/  
 📌 Portal de Custom Vision : https://www.customvision.ai/  
 📌 Portal de Machine Learning: https://ml.azure.com/  
 📌 Portal de Azure Openai: https://oai.azure.com/  

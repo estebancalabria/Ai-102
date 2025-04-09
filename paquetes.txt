@@ -1,0 +1,2 @@
+Azure.Core
+Azure.AI.Language.Conversations

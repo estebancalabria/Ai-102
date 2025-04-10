@@ -1,11 +1,12 @@
 
 # 🔗 Descargas
 
-Dot Net : [Enlace](https://dotnet.microsoft.com/en-us/download)
+Dot Net : [Enlace](https://dotnet.microsoft.com/en-us/download)  
+Bot Emulator Framework : [Enlace](https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.15.1/BotFramework-Emulator-4.15.1-windows-setup.exe)  
 
 # 🔗 Links Material Educativo
 
-Laboratorios : [Enlace](https://microsoftlearning.github.io/AI-102-AIEngineer/)
+Laboratorios : [Enlace](https://microsoftlearning.github.io/AI-102-AIEngineer/)  
 GitHub Oficial Curso : [Enlace](https://github.com/MicrosoftLearning/AI-102-AIEngineer)
 Microsoft Learn : [Enlace](https://learn.microsoft.com/es-es/training/courses/ai-102t00)
 

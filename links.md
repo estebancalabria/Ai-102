@@ -6,9 +6,9 @@ Bot Emulator Framework : [Enlace](https://github.com/microsoft/BotFramework-Emul
 
 # 🔗 Links Material Educativo
 
-Laboratorios : [Enlace](https://microsoftlearning.github.io/AI-102-AIEngineer/)  
-GitHub Oficial Curso : [Enlace](https://github.com/MicrosoftLearning/AI-102-AIEngineer)
-Microsoft Learn : [Enlace](https://learn.microsoft.com/es-es/training/courses/ai-102t00)
+📌 Laboratorios : [Enlace](https://microsoftlearning.github.io/AI-102-AIEngineer/)  
+📌 GitHub Oficial Curso : [Enlace](https://github.com/MicrosoftLearning/AI-102-AIEngineer)  
+📌 Microsoft Learn : [Enlace](https://learn.microsoft.com/es-es/training/courses/ai-102t00)
 
 # 🔗 Portales de Azure
 

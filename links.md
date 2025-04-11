@@ -1,8 +1,9 @@
 
 # 🔗 Descargas
 
-Dot Net : [Enlace](https://dotnet.microsoft.com/en-us/download)  
-Bot Emulator Framework : [Enlace](https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.15.1/BotFramework-Emulator-4.15.1-windows-setup.exe)  
+📌 Dot Net : [Enlace](https://dotnet.microsoft.com/en-us/download)  
+📌 Bot Emulator Framework : [Enlace](https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.15.1/BotFramework-Emulator-4.15.1-windows-setup.exe)  
+📌 Bot Framework Composer : [Enlace] (https://github.com/microsoft/BotFramework-Composer/releases/download/v2.1.2/BotFramework-Composer-2.1.2-windows-setup.exe)
 
 # 🔗 Links Material Educativo
 

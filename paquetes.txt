@@ -1,2 +1,9 @@
 Azure.Core
+
+Languuage
+
 Azure.AI.Language.Conversations
+
+Computer Vision
+
+Microsoft.Azure.CognitiveServices.Vision.ComputerVision

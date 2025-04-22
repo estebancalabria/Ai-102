@@ -1,9 +1,15 @@
+# Base
+
 Azure.Core
 
-Languuage
+# Languuage
 
 Azure.AI.Language.Conversations
 
-Computer Vision
+# Computer Vision
 
 Microsoft.Azure.CognitiveServices.Vision.ComputerVision
+
+# Document Ingelligence
+
+Azure.AI.FormRecognizer

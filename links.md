@@ -22,8 +22,10 @@
 📌 Portal de Machine Learning: https://ml.azure.com/   
 📌 Portal de Azure Openai: https://oai.azure.com/   
 📌 Portal de Speech : https://speech.microsoft.com/   
-📌 Portal de Video Indexer : https://www.videoindexer.ai
+📌 Portal de Video Indexer : https://www.videoindexer.ai  
+📌 Portal de Document Intelligence : https://documentintelligence.ai.azure.com/studio/  
 📌 Api de Video Indexer :https://api-portal.videoindexer.ai
+
 
 # 🔗  Endpoints Servicios Azure
 

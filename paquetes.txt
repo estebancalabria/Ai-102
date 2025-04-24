@@ -13,6 +13,7 @@ Microsoft.Azure.CognitiveServices.Vision.ComputerVision
 # Custom Vision
 
 Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training
+Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction
 
 # Document Ingelligence
 

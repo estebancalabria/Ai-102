@@ -15,6 +15,10 @@ Microsoft.Azure.CognitiveServices.Vision.ComputerVision
 Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training
 Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction
 
+#Face API
+
+Microsoft.Azure.CognitiveServices.Vision.Face
+
 # Document Ingelligence
 
 Azure.AI.FormRecognizer

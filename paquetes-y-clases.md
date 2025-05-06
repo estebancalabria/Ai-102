@@ -8,7 +8,17 @@ Azure.AI.Language.Conversations
 
 # Computer Vision
 
+## Paquetes
+
 Microsoft.Azure.CognitiveServices.Vision.ComputerVision
+
+## Usings
+
+using Microsoft.Azure.CognitiveServices.Vision.ComputerVision;
+using Microsoft.Azure.CognitiveServices.Vision.ComputerVision.Models;
+
+## Clases
+
 
 # Custom Vision
 
